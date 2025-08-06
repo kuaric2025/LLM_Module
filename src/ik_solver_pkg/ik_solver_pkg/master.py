@@ -46,7 +46,7 @@ import sys
 sys.path.append('/home/kucarst3-dlws/miniconda3/envs/isaac_rl/lib/python3.10/site-packages')
 
 # ─────────── credentials (set env var or hard-code) ───────────
-os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY", "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")
+# set your OPENAI_APY_KEY
 
 # ─────────────── LangChain LLM (prompt polishing) ─────────────
 llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
