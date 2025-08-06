@@ -2,7 +2,7 @@
 This is the repository for module-based objects pick and place task, e.g. stacking blocks task. 
 
 M-LLM framework that leverages a pre-trained LLM (GPT-3.5-turbo) as the task planner. We evaluate the framework in tabletop block-stacking tasks in both Isaac Sim and real experiments.
-![System Framework](pics/MLLM_framwork.png)
+![System Framework](pics/M_LLM_framework.png)
 
 
 # Demo 
