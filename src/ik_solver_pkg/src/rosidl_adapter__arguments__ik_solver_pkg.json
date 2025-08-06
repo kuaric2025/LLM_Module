@@ -1,0 +1,6 @@
+{
+  "package_name": "ik_solver_pkg",
+  "non_idl_tuples": [
+    "/home/kucarst3-dlws/rs_ws/src/ik_solver_pkg:srv/SetTargetPose.srv"
+  ]
+}

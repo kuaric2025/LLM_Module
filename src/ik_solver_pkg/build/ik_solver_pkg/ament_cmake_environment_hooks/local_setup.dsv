@@ -1,0 +1,4 @@
+source;share/ik_solver_pkg/environment/ament_prefix_path.sh
+source;share/ik_solver_pkg/environment/library_path.sh
+source;share/ik_solver_pkg/environment/path.sh
+source;share/ik_solver_pkg/environment/pythonpath.sh

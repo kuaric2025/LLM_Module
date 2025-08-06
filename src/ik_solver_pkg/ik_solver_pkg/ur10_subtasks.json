@@ -1,0 +1,58 @@
+[
+  {
+    "step": 1,
+    "action": "pick",
+    "object": "mug", 
+    "from": "table",
+    "to": "gripper"
+  },
+  {
+    "step": 2,
+    "action": "place",
+    "object": "mug",
+    "from": "gripper",
+    "to": "stack"
+  },
+  {
+    "step": 3,
+    "action": "pick",
+    "object": "mug",
+    "from": "table",
+    "to": "gripper"
+  },
+  {
+    "step": 4,
+    "action": "place",
+    "object": "mug",
+    "from": "gripper",
+    "to": "yellow block"
+  },
+  {
+    "step": 5,
+    "action": "pick",
+    "object": "green block",
+    "from": "table",
+    "to": "gripper"
+  },
+  {
+    "step": 6,
+    "action": "place",
+    "object": "green block",
+    "from": "gripper",
+    "to": "blue block"
+  },
+  {
+    "step": 7,
+    "action": "pick",
+    "object": "red block",
+    "from": "table",
+    "to": "gripper"
+  },
+  {
+    "step": 8,
+    "action": "place",
+    "object": "red block",
+    "from": "gripper",
+    "to": "green block"
+  }
+]
